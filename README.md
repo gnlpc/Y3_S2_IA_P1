@@ -15,7 +15,7 @@ In order to create the AI agent we implement two different algorithms to play th
 * To implement the medium and hard levels of dificulty we implemented minimax (with depth 3 and depth 8 respectively).
 
 
-## Runnin the game  
+## Running the game  
 
 It is recommend to run the game in a linux distribituion (if ran in windows, WSL usage is recommended)
 
@@ -37,8 +37,6 @@ The game will start and you will be given instructions on the menu.
 In the menu you can choose to play the game, see the rules or exit the game. You should select the wanted option on the menu. 
 After this you should input your options by writing on the terminal the option you want.
 
-
-## Conclu
 
 # Contributors:
     - Gonçalo Costa 
